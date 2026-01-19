@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__n8n-mcp__n8n_health_check",
+      "mcp__n8n-mcp__tools_documentation",
+      "Bash(claude /plugin install:*)",
+      "Bash(git clone:*)"
+    ]
+  }
+}
